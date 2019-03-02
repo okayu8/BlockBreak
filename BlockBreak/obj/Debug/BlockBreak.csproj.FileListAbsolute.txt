@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\bin\Debug\BlockBreak.exe.config
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\bin\Debug\BlockBreak.exe
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\bin\Debug\BlockBreak.pdb
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.Form1.resources
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.Properties.Resources.resources
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.exe
+C:\Users\USER\source\repos\BlockBreak\BlockBreak\obj\Debug\BlockBreak.pdb
